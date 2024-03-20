@@ -5,6 +5,7 @@
 <p>Este projeto foi desenvolvido após estudo e desafios das aulas de html e css. Neste projeto, foi habilitado a responsividade, para celular </p>
 
 <img src="https://github.com/dillymen/Projeto-WE-Care-Pets/blob/master/assets/Site%20-PC.png?raw=true" alt="imagem-projeto-pc" />
+<img src="https://github.com/dillymen/Projeto-WE-Care-Pets/blob/master/assets/site%20-%20phone.png?raw=true" alt="imagem-projeto-phone" />
 
 <h2>Tecnologias Utilizadas</h2>
 
